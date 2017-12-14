@@ -45,10 +45,17 @@ a {
   color: white;
 }
 
-h6 {
+.dimgray {
   font-family: Helvetica;
   font-size: 11px;
   color: white;
   background-color: dimgray;
   text-align: left;
+}
+
+.dimgray a {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
 }
