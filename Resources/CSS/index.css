@@ -2,10 +2,53 @@ body {
   text-align: center;
 }
 
-.Title {
-
+h4 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
 }
 
-.Links {
+p {
+  font-family: Helvetica;
+  font-size: 14px;
+}
 
+#backgroundpic {
+  background-image: url("../Images/the-flatiron-building.png");
+  background-size: cover;
+}
+
+.Title {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+a {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+}
+
+.OurProcess {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.DesignatedNYC {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+h6 {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
